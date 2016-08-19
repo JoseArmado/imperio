@@ -1,1 +1,9 @@
 C:\Servicio-Social\SERVICIO\SERVICIO\bin\Debug\SERVICIO.exe.config
+C:\imperio\SERVICIO\SERVICIO\bin\Debug\SERVICIO.exe.config
+C:\imperio\SERVICIO\SERVICIO\bin\Debug\SERVICIO.exe
+C:\imperio\SERVICIO\SERVICIO\bin\Debug\SERVICIO.pdb
+C:\imperio\SERVICIO\SERVICIO\obj\Debug\SERVICIO.Form1.resources
+C:\imperio\SERVICIO\SERVICIO\obj\Debug\SERVICIO.Properties.Resources.resources
+C:\imperio\SERVICIO\SERVICIO\obj\Debug\SERVICIO.csproj.GenerateResource.Cache
+C:\imperio\SERVICIO\SERVICIO\obj\Debug\SERVICIO.exe
+C:\imperio\SERVICIO\SERVICIO\obj\Debug\SERVICIO.pdb
